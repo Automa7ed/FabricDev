@@ -1,3 +1,3 @@
-# TbfgServerFiles
+# FabricDev
 
-Gaia Server Settings Can Be Found in the Gaia Branch.
+Follow me while I learn how to develop my first Minecraft Mod using Fabric API.
